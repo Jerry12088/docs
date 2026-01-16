@@ -5,7 +5,7 @@ is template** button at the top of this repo to copy the Mintlify starter kit. T
 
 - Guide pages
 - Navigation
-- Customizations
+- CUTOMIZATION
 - API reference pages
 - Use of popular components
 
